@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CoderMungan</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codermungan&label=Profile%20views&color=0e75b6&style=flat" alt="codermungan" /> </p>
-
 - 🌱 I’m currently learning **NodeJS,Django,Laravel**
 
 - 💬 Ask me about **React, VanillaJS**

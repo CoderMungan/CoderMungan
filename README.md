@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJS, Laravel<br><br>- 💬 Ask me about Javascript, React, Django, Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
+- 🌱 I’m currently learning NodeJS, Laravel<br><br>- 💬 Ask me about Javascript, React, Django, Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
 
 
 ## 🌐 Socials:

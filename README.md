@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>- 🌱 I’m currently learning NextJS, Bun.sh<br><br>- 💬 Ask me about Javascript, React, NodeJS (Flux), Python, Django (Mvc & Flux), Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
+<br><br>- 🌱 I’m currently learning Go, NextJS, Bun.sh<br><br>- 💬 Ask me about Javascript, React, NodeJS (Flux), Python, Django (Mvc & Flux), Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
 
 
 ## 🌐 Socials:

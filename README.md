@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>- 🌱 I’m currently learning Rust, Grahql<br><br>- 💬 Ask me about Javascript, React, NodeJS, Python, Django, Django RestFramework, Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
+<br><br>- 🌱 I’m currently learning C#, Rust, Grahql<br><br>- 💬 Ask me about Javascript, React, NodeJS, Python, Django, Django RestFramework, Html, Css<br><br>- 📫 How to reach me codermungan@gmail.com
 
 
 ## 🌐 Socials:
